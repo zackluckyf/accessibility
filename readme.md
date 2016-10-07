@@ -3,7 +3,7 @@
 <h3>Tools</h3>
 
 <p>Download Accessibility Developer Tools and then in the developer tools you can run an audit and it will
-be quite helpful in identifying any potential problems</p>
+be quite helpful in identifying any potential accessibility problems</p>
 
 <h3>Examples</h3>
 
